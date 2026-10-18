@@ -1,0 +1,6 @@
+# Fichiers locaux Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log

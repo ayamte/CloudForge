@@ -1,0 +1,10 @@
+replicaCount: 1
+
+image:
+  repository: acrcloudforgeproject26.azurecr.io/cloudforge-demo
+  tag: "v0.1.0"
+
+appVersion: "v0.1.0"
+
+service:
+  port: 80

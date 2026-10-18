@@ -2,9 +2,9 @@ replicaCount: 1
 
 image:
   repository: acrcloudforgeproject26.azurecr.io/cloudforge-demo
-  tag: "v0.1.0"
+  tag: "9ffa24dce88eb3f627febf47925f5ba1f142f445"
 
-appVersion: "gitops-test"
+appVersion: "9ffa24dce88eb3f627febf47925f5ba1f142f445"
 
 service:
   port: 80

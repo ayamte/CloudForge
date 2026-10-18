@@ -4,7 +4,7 @@ image:
   repository: acrcloudforgeproject26.azurecr.io/cloudforge-demo
   tag: "v0.1.0"
 
-appVersion: "v0.1.0"
+appVersion: "gitops-test"
 
 service:
   port: 80
